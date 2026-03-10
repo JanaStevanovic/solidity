@@ -5,7 +5,7 @@ import EvaluationDetailsModal from '../EvaluationDetailsModal/EvaluationDetailsM
 import StartupIdeaEvaluationABI from '../../contracts/StartupIdeaEvaluation.json';
 import './Main.css';
 
-const contractAddress = 'OVDE_UNESI_ADRESU_UGOVORA';
+const contractAddress = '0xa131AD247055FD2e2aA8b156A11bdEc81b9eAD95';
 
 const Main = () => {
   const [web3, setWeb3] = useState(null);
